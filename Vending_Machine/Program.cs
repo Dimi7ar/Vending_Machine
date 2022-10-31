@@ -12,6 +12,7 @@ namespace Vending_Machine
         {
             VendingMachine machine = new VendingMachine();
 
+
             Console.WriteLine("Input:");
             Console.WriteLine("Number - to add money");
             Console.WriteLine("Add - to add a desired drink into the machine");
